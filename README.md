@@ -6,21 +6,12 @@ This API allows you to register new users, using GraphQL, Node.js, MongoDB, and 
 
 To install this project, you'll need Node.js and npm installed on your machine.
 
-First, clone this repository:
+clone this repository:
 \`\`\`
 git clone <repo-url>
 \`\`\`
 
-Then navigate into the directory and install the dependencies:
-\`\`\`
-cd graphql-auth-api
-npm install
-\`\`\`
 
-Start the server:
-\`\`\`
-npm start
-\`\`\`
 
 ## Usage
 
